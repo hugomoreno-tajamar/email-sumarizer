@@ -67,4 +67,4 @@ if st.button("Generate Answer"):
 
 # Instructions for running the app
 st.write("---")
-st.write("Run this app using `streamlit run email_app.py`. Ensure your Azure OpenAI Service is configured.")
+st.write("You can run this app using `streamlit run email_app.py`. Ensure your Azure OpenAI Service is configured.")
